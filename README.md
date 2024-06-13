@@ -14,6 +14,8 @@ Currently, I am working as a freelancer and actively searching for new job oppor
 
 ## 🌟 Projects I'm Proud Of
 
+https://github.com/UkashaAshfaq/Portfolio
+
 ## 📚 Education
 
 - **GED (General Education Development)**
